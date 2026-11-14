@@ -1,0 +1,13 @@
+OK · Datos de demostración separados
+OK · Contraseñas con hash y verificación
+OK · Autenticación sin distinguir mayúsculas
+OK · Protección del último administrador
+OK · No desactivar el último administrador
+OK · Proteger ubicaciones asignadas
+OK · Código de equipo único
+OK · Número de serie único
+OK · Guardar y recuperar cambios
+OK · La edición conserva la ubicación asignada
+OK · Crear y eliminar registros sin dependencias
+OK · Excel válido: códigos con ceros, decimales y texto sin fórmulas
+Pruebas locales completadas. SQL Server requiere una instancia para la prueba de integración.

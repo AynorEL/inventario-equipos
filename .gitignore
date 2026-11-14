@@ -1,0 +1,15 @@
+**/bin/
+**/obj/
+.vs/
+*.user
+*.suo
+*.pdb
+*.log
+*.tmp
+settings.json
+demo.xml
+*.mdf
+*.ldf
+*.bak
+artifacts/
+pruebas.txt
